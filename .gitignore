@@ -1,0 +1,12 @@
+# Java build output
+bin/
+*.class
+
+# Eclipse workspace metadata
+.metadata/
+.classpath
+.project
+.settings/
+
+# IDE files
+.vscode/
