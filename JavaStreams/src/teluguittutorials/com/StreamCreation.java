@@ -13,6 +13,7 @@ public class StreamCreation {
 		Stream<String> streamFromList=list.stream();
 		System.out.println("Stream From List Count "+ streamFromList.count());
 		System.out.println("Stream From List Hascode "+ streamFromList.hashCode());
+		
 		//From an Array
 		String[] array= {"onge","two","three"};
 		Stream<String> streamFromArray=Arrays.stream(array);
