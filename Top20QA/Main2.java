@@ -1,7 +1,6 @@
 import java.util.*;
 import java.util.stream.*;
-import java.util.stream.Collectors.*;
-import java.util.Comparator.*;
+
 //1)Take a list of numbers remove duplicates sort
 //2) From a list of numbers , find all the even numbers and return their squres
 public class Main2 {
